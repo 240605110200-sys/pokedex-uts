@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "BULBASAUR",
+    "type": "Grass",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png",
+    "description": "Bulbasaur dapat ditemukan tidur di bawah sinar matahari. Terdapat benih tanaman di punggungnya yang tumbuh seiring menyerap sinar matahari.",
+    "stats": {"HP": 45, "Attack": 49, "Defense": 49, "Speed": 45}
+  },
+  {
+    "id": 152,
+    "name": "CHIKORITA",
+    "type": "Grass",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/152.png",
+    "description": "Ia menggunakan daun di kepalanya untuk menentukan suhu dan kelembapan di sekitarnya. Daun ini juga mengeluarkan aroma manis yang menenangkan.",
+    "stats": {"HP": 45, "Attack": 49, "Defense": 65, "Speed": 45}
+  },
+  {
+    "id": 252,
+    "name": "TREECKO",
+    "type": "Grass",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/252.png",
+    "description": "Telapak kakinya memiliki kait kecil yang memungkinkannya memanjat dinding vertikal dengan mudah. Ia menyerang musuh dengan sabetan ekor tebalnya.",
+    "stats": {"HP": 40, "Attack": 45, "Defense": 35, "Speed": 70}
+  },
+  {
+    "id": 4,
+    "name": "CHARMANDER",
+    "type": "Fire",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/4.png",
+    "description": "Api yang menyala di ujung ekornya menunjukkan kesehatan Charmander. Jika ia sehat, apinya akan menyala sangat terang.",
+    "stats": {"HP": 39, "Attack": 52, "Defense": 43, "Speed": 65}
+  },
+  {
+    "id": 155,
+    "name": "CYNDAQUIL",
+    "type": "Fire",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/155.png",
+    "description": "Cyndaquil melindungi dirinya dengan menyalakan api di punggungnya saat merasa terancam. Apinya menyala lebih besar jika ia marah.",
+    "stats": {"HP": 39, "Attack": 52, "Defense": 43, "Speed": 65}
+  },
+  {
+    "id": 255,
+    "name": "TORCHIC",
+    "type": "Fire",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/255.png",
+    "description": "Ia memiliki kantung api di dalam perutnya yang terus menyala. Memeluknya akan terasa sangat hangat seperti memegang bantal pemanas.",
+    "stats": {"HP": 45, "Attack": 60, "Defense": 40, "Speed": 45}
+  },
+  {
+    "id": 7,
+    "name": "SQUIRTLE",
+    "type": "Water",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/7.png",
+    "description": "Cangkang Squirtle tidak hanya digunakan untuk perlindungan. Bentuknya yang bulat dan alurnya mengurangi hambatan di air, sehingga ia bisa berenang sangat cepat.",
+    "stats": {"HP": 44, "Attack": 48, "Defense": 65, "Speed": 43}
+  },
+  {
+    "id": 158,
+    "name": "TOTODILE",
+    "type": "Water",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/158.png",
+    "description": "Meski kecil, rahang Totodile sangat kuat dan bisa menghancurkan apa saja. Ia punya kebiasaan menggigit apa pun yang bergerak di depannya.",
+    "stats": {"HP": 50, "Attack": 65, "Defense": 64, "Speed": 43}
+  },
+  {
+    "id": 258,
+    "name": "MUDKIP",
+    "type": "Water",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/258.png",
+    "description": "Sirip di kepalanya bertindak sebagai radar yang sangat sensitif terhadap pergerakan air, memungkinkan Mudkip mengetahui kondisi sekitarnya tanpa perlu melihat.",
+    "stats": {"HP": 50, "Attack": 70, "Defense": 50, "Speed": 40}
+  },
+  {
+    "id": 25,
+    "name": "PIKACHU",
+    "type": "Electric",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png",
+    "description": "Pikachu memiliki kantung listrik di kedua pipinya. Jika merasa terancam, ia melepaskan muatan listrik dari pipi tersebut untuk menyerang.",
+    "stats": {"HP": 35, "Attack": 55, "Defense": 40, "Speed": 90}
+  },
+  {
+    "id": 172,
+    "name": "PICHU",
+    "type": "Electric",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/172.png",
+    "description": "Pichu belum mahir menyimpan listrik dan sering kali menyetrum dirinya sendiri saat terkejut. Meski kecil, sengatannya bisa melumpuhkan orang dewasa.",
+    "stats": {"HP": 20, "Attack": 40, "Defense": 15, "Speed": 60}
+  },
+  {
+    "id": 179,
+    "name": "MAREEP",
+    "type": "Electric",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/179.png",
+    "description": "Bulu halusnya menyimpan muatan listrik statis yang terbentuk saat digesekkan. Semakin banyak listrik yang terkumpul, bohlam di ekornya akan semakin terang.",
+    "stats": {"HP": 55, "Attack": 40, "Defense": 40, "Speed": 35}
+  }
+]
